@@ -1,0 +1,5 @@
+{
+  "name": "working copy of 4 in a Row with AI",
+  "description": "A classic 4 in a Row game where you can play against a friend or a Gemini-powered AI. Customize player names, counters, and enjoy various seasonal themes for a personalized experience.",
+  "requestFramePermissions": []
+}
